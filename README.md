@@ -4,4 +4,4 @@
 
 Grove Beginner Kit for Arduino
 
-this example shows how to get data from the sound sensor
+this example shows how to get data from the sound sensor and display the value on serial port.
